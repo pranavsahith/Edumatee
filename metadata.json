@@ -1,0 +1,7 @@
+{
+  "name": "EduLearn",
+  "description": "Your all-in-one AI academic assistant. Helps with explaining topics, debugging code, getting project ideas, and preparing for interviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
